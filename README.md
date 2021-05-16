@@ -18,7 +18,6 @@ Skills:   REACT / JS / HTML / CSS / NodeJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilpiparaiya)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anilpiparaiya&show_icons=true&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anilpiparaiya&show_icons=true&theme=radical)
 
 
