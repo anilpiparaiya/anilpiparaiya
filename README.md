@@ -11,7 +11,7 @@ Skills:   REACT / JS / HTML / CSS / NodeJS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilpiparaiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anilpiparaiya07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/kanilp)  
-
+<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,21 +43,21 @@ Skills:   REACT / JS / HTML / CSS / NodeJS
     <img
         height="180em"
 	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=aditya20233&show_icons=true&hide_border=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=anilpiparaiya&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
         height="180em"
 	width="400em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20233&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpiparaiya&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
 </p>
 
 <p align="center"> 
-	<a href="https://github.com/aditya20233"><img src="https://komarev.com/ghpvc/?username=aditya20233" alt="aditya lodhi"/></a>
-	<a href="https://github.com/aditya20233?tab=repositories"><img src="https://badges.pufler.dev/repos/aditya20233" alt="aditya lodhi" /> </a>
-	<img src="https://img.shields.io/github/stars/aditya20233?label=Stars" alt="Total Stars">
+	<a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
+	<a href="https://github.com/anilpiparaiya?tab=repositories"><img src="https://badges.pufler.dev/repos/anilpiparaiya" alt="anil piparaiya" /> </a>
+	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
 </p>
-
+<!-- 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
 
@@ -66,3 +66,4 @@ Skills:   REACT / JS / HTML / CSS / NodeJS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
 
 ![Profile views](https://gpvc.arturio.dev/anilpiparaiya)  
+ -->
