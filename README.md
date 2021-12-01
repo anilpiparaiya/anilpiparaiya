@@ -4,7 +4,7 @@ Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspirin
 
 
 <br/>
-<div align="center">
+<!-- <div align="center"> -->
 	Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
@@ -32,7 +32,7 @@ Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspirin
   />
   <br />
   <br />
-</div>
+<!-- </div> -->
 
 - 🔭 I’m currently working on Online Secure Transaction Application 
 - 🌱 I’m currently learning  Blockchain technology, Machine Learning, Web Development 
