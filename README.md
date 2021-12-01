@@ -5,7 +5,8 @@ Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspirin
 <br/>
 Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
 <br/>
-<div align="center">
+<!-- <div align="center"> -->
+<div>
 	
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
