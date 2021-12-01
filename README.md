@@ -2,10 +2,10 @@
 #### Software Design and Development
 Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development, Mathematics, Human Psychology and Chess.
 
-Skills:   REACT / JS / HTML / CSS / NodeJS
 
 <br/>
 <div align="center">
+	Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
