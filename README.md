@@ -4,6 +4,8 @@ Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspirin
 
 <br/>
 Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
+
+<br />
 <br/>
 <!-- <div align="center"> -->
 <div>
@@ -32,7 +34,6 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
     width="60px"
   />
-  <br />
   <br />
 </div>
 
