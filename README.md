@@ -1,15 +1,12 @@
 ### Hi there 👋, I'm Anil Piparaiya
 #### Software Design and Development
-Hi, I'm Anil from India, I am a Second-Year Undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development, Mathematics, Human Psychology and Chess.
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
+Hi, I'm Anil from India, I am a Third-Year Undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development, Mathematics, Human Psychology and Chess.
 <br/>
-Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
-
 <br />
-<br/>
-<!-- <div align="center"> -->
-<div>
-	
+Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
+<br />
+<div>	
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
@@ -35,21 +32,25 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
     width="60px"
   />
   <br />
+  <br />
 </div>
+
+<!-- <div align="center"> -->
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Online Secure Transaction Application 
 - 🌱 I’m currently learning  Blockchain technology, Machine Learning, Web Development 
 - 📫 How to reach me: anilkumarpiparaiya@gmail.com 
 - ⚡ Fun fact: I'm a Introvert 
 
+<h3>Social & Portfolio</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/anilpiparaiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anilpiparaiya) 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anilpiparaiya07/) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/kanilp)   -->
-
-<br />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -66,8 +67,8 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <!---![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)--->
 
-<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) -->
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
+<!--   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) --> 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
