@@ -42,7 +42,7 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
 - 🔭 I’m currently working on Online Secure Transaction Application 
 - 🌱 I’m currently learning  Blockchain technology, Machine Learning, Web Development 
 - 📫 How to reach me: anilkumarpiparaiya@gmail.com 
-- ⚡ Fun fact: I'm a Introvert 
+- ⚡ Fun fact: I'm an Introvert 
 
 <h3>Social & Portfolio</h3>
 
