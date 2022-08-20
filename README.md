@@ -40,7 +40,7 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on Online Secure Transaction Application 
-- 🌱 I’m currently learning  Blockchain technology, Machine Learning, Web Development 
+- 🌱 I’m currently learning  Blockchain technology, full stack Web Development 
 - 📫 How to reach me: anilkumarpiparaiya@gmail.com 
 - ⚡ Fun fact: I'm an Introvert 
 
