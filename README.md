@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Anil Piparaiya
 #### Software Design and Development
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development, Mathematics.
+Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development and Mathematics.
 <br/>
 <br />
 Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
