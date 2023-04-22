@@ -32,8 +32,8 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
     width="60px"
   /> -->
-  <br />
-  <br />
+<!--   <br />
+  <br /> -->
 </div>
 
 <!-- <div align="center"> -->
