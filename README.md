@@ -97,9 +97,6 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
   src="https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya&&theme=react&&hide_border=true"
 />
 
-<br/>
-![](https://komarev.com/ghpvc/?username=anilpiparaiya)
-
 ## Interests
 
 - Interested in C++, JavaScript & Python. Recent focus on full stack.
