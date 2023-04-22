@@ -6,7 +6,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 <br />
 <!-- Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS -->
 <br />
-<div>	
+<!-- <div>	
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
     width="60px"
@@ -30,7 +30,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
     width="60px"
-  />
+  /> -->
   <br />
   <br />
 </div>
