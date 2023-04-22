@@ -80,7 +80,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
+<!-- 
 <p align="center">
     <img
         height="180em"
@@ -93,12 +93,12 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpiparaiya&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
 </p>
-
-<p align="center"> 
+ -->
+<!-- <p align="center"> 
 	<a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
 	<a href="https://github.com/anilpiparaiya?tab=repositories"><img src="https://badges.pufler.dev/repos/anilpiparaiya" alt="anil piparaiya" /> </a>
 	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
-</p>
+</p> -->
 <!-- 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
