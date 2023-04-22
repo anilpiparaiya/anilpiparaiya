@@ -4,7 +4,7 @@
 Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development and Mathematics.
 <br/>
 <br />
-Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
+<!-- Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS -->
 <br />
 <div>	
   <img
@@ -65,8 +65,8 @@ Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <!---![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)--->
 
-<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
-<!--   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) --> 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
