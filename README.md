@@ -90,7 +90,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 ## ✨ Stats
 
-<p align="center"><a href="https://github.com/omarramoun"><img src="https://github-readme-stats.vercel.app/api?username=omarramoun&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
+<p align="center"><a href="https://github.com/anilpiparaiya"><img src="https://github-readme-stats.vercel.app/api?username=anilpiparaiya&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
 
 ## Interests
 
@@ -104,7 +104,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/MrRamoun/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/anilpiparaiya/count.svg" alt="visitor badge"/></p>
 
 ---
 
