@@ -83,6 +83,31 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+
+
+
+
+## ✨ Stats
+
+<p align="center"><a href="https://github.com/omarramoun"><img src="https://github-readme-stats.vercel.app/api?username=omarramoun&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
+
+## Interests
+
+- Interested in C++ & Python. Recent focus on full stack.
+- Currently learning Microprocessor Design & Programming.
+- Reading more about Computer History, History of C, Dennis Ritchie.
+- With 8+ years of computer science and technology education.
+- Encouraging people for open source collaborations.
+
+---
+
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/MrRamoun/count.svg" alt="visitor badge"/></p>
+
+---
+
 <!-- 
 <p align="center">
     <img
