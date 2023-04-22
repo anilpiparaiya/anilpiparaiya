@@ -4,13 +4,6 @@
 Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development and Mathematics.
 <br/>
 
-<h3>Social & Portfolio</h3>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/kanilp)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
-
-
 <!-- Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS -->
 <br />
 <br />
@@ -51,6 +44,13 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 - 🌱 I’m currently learning Data Science and Machine Learning  
 - 📫 How to reach me: anilkumarpiparaiya@gmail.com 
 - ⚡ Fun fact: I'm an Introvert 
+
+
+<h3>Social & Portfolio</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/kanilp)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
 
 
 
