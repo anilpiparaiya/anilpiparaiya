@@ -93,9 +93,10 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 <p align="left"><a href="https://github.com/anilpiparaiya"><img src="https://github-readme-stats.vercel.app/api?username=anilpiparaiya&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515&amp;count_private=true" alt="stats of github"></a></p>
 
 
-<img
+<p align="right"><a href="https://github.com/anilpiparaiya"><img
   src="https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya&&theme=react&&hide_border=true"
-/>
+/></a></p>
+
 <br/>
 ![](https://komarev.com/ghpvc/?username=anilpiparaiya)
 
