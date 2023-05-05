@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Anil Piparaiya
-#### Software Development
+
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development and Mathematics.
 
@@ -101,7 +101,7 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 ## Interests
 
-- Interested in C++, JavaScript & Python. Recent focus on full stack.
+- Interested in C++, JavaScript & Python. Recent focus on full stack Software Development.
 - Currently learning Data Science and Machine Learning.
 - Reading more about Quant and HFTs.
 
