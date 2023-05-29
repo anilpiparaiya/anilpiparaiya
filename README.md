@@ -47,7 +47,6 @@ Being a self-taught programmer and philomath, my interests lie in web developmen
 
 <!-- <div align="center"> -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
@@ -56,6 +55,7 @@ Being a self-taught programmer and philomath, my interests lie in web developmen
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
