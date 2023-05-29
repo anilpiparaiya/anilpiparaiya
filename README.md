@@ -1,6 +1,9 @@
 ### Hey👋, I'm Anil Piparaiya 
 
-<h3>About Me</h3>
+## :wave: About Me 
+
+<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
 Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, aspiring to be a Software Engineer.
 <!-- Being a self-taught programmer and philomath, my interests lie in web development and mathematics. -->
 
@@ -62,10 +65,6 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 
 
 <h3>Social & Portfolio</h3>
-
-<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/anilpiparaiya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/anilpiparaiya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anilpiparaiya/) 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/anilpiparaiya)  -->
