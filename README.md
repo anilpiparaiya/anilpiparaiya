@@ -57,7 +57,7 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
 
-<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
+<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
