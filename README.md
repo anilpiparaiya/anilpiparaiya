@@ -86,7 +86,20 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 <br/>
 
+#### **Frameworks, Platforms and Libraries**
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp;
 
+#### **Databases**
+<img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+
+#### **DevOps & Cloud Tools**
+<img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
 
 
 
