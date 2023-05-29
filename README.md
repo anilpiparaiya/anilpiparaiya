@@ -1,16 +1,16 @@
 ### Hey👋, I'm Anil Piparaiya 
 
-
+####About Me
 <p align="left">Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, aspiring to be a Software Engineer
 Being a self-taught programmer and philomath, my interests lie in web development and mathematics.
 </p>
 	
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-
-
-### :wave: About Me 
+ 
 
 
 
@@ -57,7 +57,7 @@ Being a self-taught programmer and philomath, my interests lie in web developmen
 
 <!-- <div align="center"> -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 
 <h3>Social & Portfolio</h3>
