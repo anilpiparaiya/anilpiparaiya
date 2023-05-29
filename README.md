@@ -1,15 +1,17 @@
-### Hi there 👋, I'm Anil Piparaiya
+<!-- ### Hi there 👋, I'm Anil Piparaiya -->
+<h1 align="left">Hey, I'm Anil Piparaiya</h1> 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
+### :wave: About Me 
 Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to be a Software Developer Engineer. Being a self taught programmer and Philomath, my interests lie in Web Development and Mathematics.
 
-## :wave: About Me 
 
-<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
+<!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 
 
 <br/>
-<!-- <h1 align="left">Hey, I'm Anil Piparaiya</h1>  -->
+
 
 
 
