@@ -54,7 +54,9 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 - 🔭 I’m currently working on Online Secure Transaction Application 
 - 🌱 I’m currently learning Data Science and Machine Learning  
-- 📫 How to reach me: anilkumarpiparaiya@gmail.com 
+- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
+- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
+- 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 - ⚡ Fun fact: I'm an Introvert 
 
 
