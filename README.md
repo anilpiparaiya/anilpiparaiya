@@ -2,8 +2,8 @@
 
 ## :wave: About Me 
 
-<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
+<!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+ -->
 Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, aspiring to be a Software Engineer.
 <!-- Being a self-taught programmer and philomath, my interests lie in web development and mathematics. -->
 
