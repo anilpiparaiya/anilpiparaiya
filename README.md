@@ -57,7 +57,6 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
 
-<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -75,6 +74,7 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/anilpiparaiya)  -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/anilpiparaiya) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
+<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 🛠 &nbsp;Tech Stack</h3>
