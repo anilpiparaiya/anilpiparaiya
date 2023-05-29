@@ -52,12 +52,12 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/anilpiparaiya) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
 
-- 🔭 I’m currently working on Online Secure Transaction Application 
-- 🌱 I’m currently learning Data Science and Machine Learning  
+<!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
-- ⚡ Fun fact: I'm an Introvert 
+<!-- - ⚡ Fun fact: I'm an Introvert  -->
 
 
 
