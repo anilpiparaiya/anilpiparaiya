@@ -113,9 +113,9 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 
 ## 📈Github Stats
 <p align="center">
-<a href="https://github.com/nehagoyal2607">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nehagoyal2607&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nehagoyal2607&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/anilpiparaiya">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpiparaiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpiparaiya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
