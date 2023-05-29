@@ -5,19 +5,13 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 Being a self-taught programmer and philomath, my interests lie in web development and mathematics.
 
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-<!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
-- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
-- 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
-<!-- - ⚡ Fun fact: I'm an Introvert  -->
 
 
 <!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 
-
 <br/>
-<br/> 
+
+ <br /><br />
 
 
 
@@ -57,6 +51,14 @@ Being a self-taught programmer and philomath, my interests lie in web developmen
 <!-- <div align="center"> -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+<!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
+- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
+- 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
+<!-- - ⚡ Fun fact: I'm an Introvert  -->
 
 
 
