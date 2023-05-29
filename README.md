@@ -1,5 +1,7 @@
 ### Hey👋, I'm Anil Piparaiya 
 
+<a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
+
 <h3>About Me</h3>
 
 Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, aspiring to be a Software Engineer.
