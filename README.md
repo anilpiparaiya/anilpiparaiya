@@ -4,14 +4,11 @@
 Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, aspiring to be a Software Engineer
 Being a self-taught programmer and philomath, my interests lie in web development and mathematics.
 
-<img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-
-
 <!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 
 <br/>
 
- <br /><br />
+<br />
 
 
 
@@ -72,7 +69,7 @@ Being a self-taught programmer and philomath, my interests lie in web developmen
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]( https://www.hackerrank.com/anilpiparaiya) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/anilpiparaiya)  -->
 
-
+<img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
