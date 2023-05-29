@@ -9,11 +9,6 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 
 <br/>
 
-<br />
-
-
-
-
 <!-- Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS -->
 <!-- <br />
 <br /> -->
