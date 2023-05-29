@@ -98,6 +98,15 @@ Hi, I'm Anil from India, I am a senior undergraduate at IIT Kanpur, aspiring to 
 - Reading more about Quant and HFTs.
 
 
+## 📈Github Stats
+<p align="center">
+<a href="https://github.com/nehagoyal2607">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nehagoyal2607&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nehagoyal2607&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ---
 
 
