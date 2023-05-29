@@ -5,7 +5,7 @@
 Being a self-taught programmer and philomath, my interests lie in web development and mathematics.
 </p>
 	
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
+<p align="right"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 
 
