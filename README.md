@@ -1,5 +1,4 @@
-<!-- ### Hi there 👋, I'm Anil Piparaiya -->
-<h1 align="left">Hey, I'm Anil Piparaiya</h1> 
+### Hey👋, I'm Anil Piparaiya 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ### :wave: About Me 
