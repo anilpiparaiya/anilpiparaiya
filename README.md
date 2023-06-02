@@ -53,6 +53,12 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
 
 
+### 🔗 Connect with me:
+<!-- style=flat-square& -->
+[![Gmail Badge](https://img.shields.io/badge/-Anamika-D14836?logo=Gmail&logoColor=white&link=mailto:anilkumarpiparaiya@gmail.com)](mailto:anilkumarpiparaiya@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Anamika%20Jain-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anilpiparaiya/)
+[![Instagram Badge](https://img.shields.io/badge/-AnamikaJain-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/anilpiparaiya/)](https://www.instagram.com/anilpiparaiya/?hl=en)
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
