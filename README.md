@@ -141,13 +141,13 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 </p>
 
 
----
+<!---
 
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/anilpiparaiya/count.svg" alt="visitor badge"/></p>
+ --->
 
----
 
 <!-- 
 <p align="center">
