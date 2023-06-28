@@ -128,8 +128,8 @@ Hey! I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, 
 ## Interests
 
 - Interested in C++, JavaScript & Python. Recent focus on full stack Software Development.
-- Currently learning Data Science and Machine Learning.
-- Reading more about Quant and HFTs.
+- Data Science and Machine Learning.
+
 
 
 ## 📈Github Stats
