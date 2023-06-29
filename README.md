@@ -1,8 +1,8 @@
 ### Hey👋, I'm Anil Piparaiya 
 
-<h3>About Me</h3>
+<h3>About Anil</h3>
 
-I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a data science enthusiast and an aspiring Software Engineer.
+A senior undergraduate at Indian Institute of Technology Kanpur, a data science enthusiast and an aspiring Software Engineer.
 <!-- Being a self-taught programmer and philomath, my interests lie in web development and mathematics. -->
 
 <!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
