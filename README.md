@@ -82,9 +82,11 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-🛠 &nbsp;Tech Stack</h3>
 
 -->
+🛠 &nbsp;Tech Stack</h3>
+
+
 
 - 💻 &nbsp;
   [![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
