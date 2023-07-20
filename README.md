@@ -54,18 +54,6 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
 
 
-### 🔗 Connect with me:
-<!-- style=flat-square& -->
-[![Gmail Badge](https://img.shields.io/badge/-anilkumarpiparaiya-D14836?logo=Gmail&logoColor=white&link=mailto:anilkumarpiparaiya@gmail.com)](mailto:anilkumarpiparaiya@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Anil%20Piparaiya-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anilpiparaiya/)
-[![Instagram Badge](https://img.shields.io/badge/-anilpiparaiya-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/anilpiparaiya/)](https://www.instagram.com/anilpiparaiya/?hl=en)
-
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-
-
 <h3>Social & Portfolio</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
@@ -80,6 +68,20 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 <!--
 <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 -->
+
+### 🔗 Connect with me:
+<!-- style=flat-square& -->
+[![Gmail Badge](https://img.shields.io/badge/-anilkumarpiparaiya-D14836?logo=Gmail&logoColor=white&link=mailto:anilkumarpiparaiya@gmail.com)](mailto:anilkumarpiparaiya@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Anil%20Piparaiya-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anilpiparaiya/)
+[![Instagram Badge](https://img.shields.io/badge/-anilpiparaiya-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/anilpiparaiya/)](https://www.instagram.com/anilpiparaiya/?hl=en)
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+
+
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
 
