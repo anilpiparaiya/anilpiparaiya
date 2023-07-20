@@ -60,9 +60,10 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 [![Linkedin Badge](https://img.shields.io/badge/-Anil%20Piparaiya-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anilpiparaiya/)
 [![Instagram Badge](https://img.shields.io/badge/-anilpiparaiya-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/anilpiparaiya/)](https://www.instagram.com/anilpiparaiya/?hl=en)
 
+<!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
+-->
 
 
 
