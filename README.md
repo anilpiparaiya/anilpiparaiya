@@ -47,7 +47,7 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 
 <!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development.
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.-->
 
@@ -129,13 +129,13 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 
 
 
-
+<!--
 ## Interests
 
 - Interested in C++, JavaScript & Python. Recent focus on full stack Software Development.
 - Data Science and Machine Learning.
 
-
+-->
 
 ## 📈Github Stats
 <p align="center">
