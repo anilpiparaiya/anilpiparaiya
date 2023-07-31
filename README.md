@@ -12,7 +12,7 @@ I'm Anil, a senior undergraduate at Indian Institute of Technology Kanpur, a dat
 <!-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.-->
 
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
-<br/>
+
 
 <!-- Skills:   HTML5 / CSS3 / JS / TS / REACT / REDUX / NodeJS / NextJS -->
 <!-- <br />
