@@ -128,13 +128,13 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a data scie
 
 
 
-
+<!--
 #### **DevOps & Cloud Tools**
 <img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
 
-
+-->
 
 <!--
 ## Interests
