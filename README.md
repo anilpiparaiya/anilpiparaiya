@@ -7,7 +7,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a data scie
 <!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 <!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
-- 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development.
+<!-- - 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development.-->
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.-->
 
