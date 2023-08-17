@@ -153,6 +153,9 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a data scie
 </p>
 
 
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!---
 
 
