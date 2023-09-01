@@ -110,6 +110,10 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a data scie
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+   <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4a8af4?logo=google%20chrome&logoColor=white"></a>
+<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a> 
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 <br/>
 
 #### **Frameworks, Platforms and Libraries**
