@@ -2,11 +2,11 @@
 
 <h3>About Me</h3>
 
-I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Science & Machine Learning enthusiast & an aspiring Software Engineer.
+I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Science and Machine Learning enthusiast & an aspiring Software Engineer.
 <!-- Being a self-taught programmer and philomath, my interests lie in web development and mathematics. -->
 <!-- <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 <!-- - 🔭 I’m currently working on Online Secure Transaction Application    -->
-- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
+- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript having knowledge of working with Data Science and Machine Learning Models.
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!--- 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development.-->
 <!-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.-->
