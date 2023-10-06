@@ -178,6 +178,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpiparaiya&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
 </p>  --->
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
  
  <p align="center"> 
 	<a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
@@ -185,12 +186,10 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
 </p> 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
+
 <!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anilpiparaiya)  
-
-
 
 ![Profile views](https://gpvc.arturio.dev/anilpiparaiya)  
 
