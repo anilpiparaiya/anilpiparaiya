@@ -150,13 +150,15 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 <a href="https://github.com/anilpiparaiya">
   <img alt="Anil Piparaiya's Github Stats" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpiparaiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!---<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpiparaiya&layout=compact&langs_count=8&theme=algolia"/>---> 
-	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
 </a>
-
- <a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
- <a href="https://github.com/anilpiparaiya?tab=repositories"><img src="https://badges.pufler.dev/repos/anilpiparaiya" alt="anil piparaiya" /> </a>
 	
 </p>
+
+<p align="center"> 
+	<a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
+	<a href="https://github.com/anilpiparaiya?tab=repositories"><img src="https://badges.pufler.dev/repos/anilpiparaiya" alt="anil piparaiya" /> </a>
+	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
+</p> 
 
 
 ### ✍️ Random Quote
@@ -185,11 +187,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 </p>  --->
  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
  
- <p align="center"> 
-	<a href="https://github.com/anilpiparaiya"><img src="https://komarev.com/ghpvc/?username=anilpiparaiya" alt="anil piparaiya"/></a>
-	<a href="https://github.com/anilpiparaiya?tab=repositories"><img src="https://badges.pufler.dev/repos/anilpiparaiya" alt="anil piparaiya" /> </a>
-	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
-</p> 
+ 
 
 
 <!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
