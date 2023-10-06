@@ -167,13 +167,6 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center"> 
-	<a href="https://github.com/anilpiparaiya">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</a>
-	<a href="https://github.com/anilpiparaiya?tab=repositories">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya) </a>
-	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
-	  
-</p> 
-
 <!---
 
 
