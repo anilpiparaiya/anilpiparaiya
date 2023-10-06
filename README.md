@@ -166,7 +166,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 
 
 
-<!---<p align="center">
+<!--- <p align="center">
     <img
         height="180em"
 	 width="400em"
@@ -185,12 +185,12 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
 </p> 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
+<!--- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anilpiparaiya)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anilpiparaiya)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya)  
+
 
 ![Profile views](https://gpvc.arturio.dev/anilpiparaiya)  
 
