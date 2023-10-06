@@ -146,8 +146,9 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 -->
 
 ## 📈Github Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya) 
 <p align="center">
-	![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anilpiparaiya) 
+	
 <a href="https://github.com/anilpiparaiya">
   <img alt="Anil Piparaiya's Github Stats" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anilpiparaiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!---<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anilpiparaiya&layout=compact&langs_count=8&theme=algolia"/>---> 
