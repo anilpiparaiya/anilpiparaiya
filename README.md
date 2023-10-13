@@ -145,6 +145,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 
 -->
 
+<!--
 ## 📈Github Stats
 
 <p align="center">
@@ -162,7 +163,7 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 	<img src="https://img.shields.io/github/stars/anilpiparaiya?label=Stars" alt="Total Stars">
 	  
 </p> 
-
+--->
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
