@@ -50,8 +50,8 @@ I'm a senior undergraduate at Indian Institute of Technology Kanpur, a Data Scie
 
 
 ### 🔗 Connect with me: 
-1. social handles - [![social handles](https://img.shields.io/badge/social%20handles-purple)](https://linktr.ee/anilpiparaiya)
-2. programming handles - [![LeetCode](https://img.shields.io/badge/LeetCode-grey?logo=leetcode)](https://leetcode.com/anilpiparaiya/) [![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces)](https://codeforces.com/profile/anilpiparaiya) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anilpiparaiya/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank)](https://www.hackerrank.com/anilpiparaiya)
+1. Social handles - [![social handles](https://img.shields.io/badge/social%20handles-purple)](https://linktr.ee/anilpiparaiya)
+2. Programming handles - [![LeetCode](https://img.shields.io/badge/LeetCode-grey?logo=leetcode)](https://leetcode.com/anilpiparaiya/) [![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces)](https://codeforces.com/profile/anilpiparaiya) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anilpiparaiya/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank)](https://www.hackerrank.com/anilpiparaiya)
 
 
 
