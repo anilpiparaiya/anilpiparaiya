@@ -2,13 +2,13 @@
 
 <h3>About Me</h3>
 
-- 👩‍💻 My name is Anil and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+
 - 👩‍💻 I'm a senior undergraduate at Indian Institute of Technology Kanpur and an aspiring Software Engineer.
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 - 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development.
 
-
+<!--- 👩‍💻 My name is Anil and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 <!-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.-->
 <!-- - ⚡ Fun fact: I'm an Introvert  -->
 <!-- Being a self-taught programmer and philomath, my interests lie in web development and mathematics. -->
