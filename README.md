@@ -58,14 +58,17 @@
 2. Programming handles - [![LeetCode](https://img.shields.io/badge/LeetCode-grey?logo=leetcode)](https://leetcode.com/anilpiparaiya/) [![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces)](https://codeforces.com/profile/anilpiparaiya) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anilpiparaiya/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank)](https://www.hackerrank.com/anilpiparaiya)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anilpiparaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilpiparaiya/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anilpiparaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anilpiparaiya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anilpiparaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anilpiparaiya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anilpiparaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anilpiparaiya" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anilpiparaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anilpiparaiya" height="30" width="40" /></a>
+</p>
 
 
-<!-- ### 🔗 Connect with me: -->
-<!-- style=flat-square& -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/-anilkumarpiparaiya-D14836?logo=Gmail&logoColor=white&link=mailto:anilkumarpiparaiya@gmail.com)](mailto:anilkumarpiparaiya@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Anil%20Piparaiya-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anilpiparaiya/)
-[![Instagram Badge](https://img.shields.io/badge/-anilpiparaiya-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/anilpiparaiya/)](https://www.instagram.com/anilpiparaiya/?hl=en)
--->
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
