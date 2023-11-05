@@ -57,7 +57,7 @@
 1. Social handles - [![social handles](https://img.shields.io/badge/social%20handles-purple)](https://linktr.ee/anilpiparaiya)
 2. Programming handles - [![LeetCode](https://img.shields.io/badge/LeetCode-grey?logo=leetcode)](https://leetcode.com/anilpiparaiya/) [![Codeforces](https://img.shields.io/badge/Codeforces-white?logo=codeforces)](https://codeforces.com/profile/anilpiparaiya) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anilpiparaiya/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank)](https://www.hackerrank.com/anilpiparaiya)
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anilpiparaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilpiparaiya/" height="30" width="40" /></a>
@@ -67,7 +67,7 @@
 <a href="https://auth.geeksforgeeks.org/user/anilpiparaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anilpiparaiya" height="30" width="40" /></a>
 </p>
 
-
+-->
 
 
 
@@ -98,7 +98,6 @@
 🛠 &nbsp;Tech Stack</h3>
 
 
-
 - 💻 &nbsp;
   [![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -125,7 +124,6 @@
   <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4a8af4?logo=google%20chrome&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a> 
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-<br/>
 
 #### **Frameworks, Platforms and Libraries**
 <img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
