@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 I'm a senior undergraduate at Indian Institute of Technology Kanpur and an aspiring Software Engineer.
-- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. I’m Interested in Data Science and Machine Learning
+- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. I’m Interested in Data Science & Machine Learning
 - 📫 Reach out to me at **anilkumarpiparaiya@gmail.com**
 <!-- - 🌱 I’m Interested in Data Science and Machine Learning. Recent focus on full stack Software Development. -->
 
