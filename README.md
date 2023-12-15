@@ -53,7 +53,7 @@
 
 <!-- <div align="center"> -->
 
-<h3> Connect with me</h3>
+<!--<h3> Connect with me</h3>
  
 <!-- 1. Social handles - [![social handles](https://img.shields.io/badge/social%20handles-purple)](https://linktr.ee/anilpiparaiya) -->
 <!--1. Programming handles - [![LeetCode](https://img.shields.io/badge/LeetCode-grey?logo=leetcode)](https://leetcode.com/anilpiparaiya/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/anilpiparaiya/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank)](https://www.hackerrank.com/anilpiparaiya)
