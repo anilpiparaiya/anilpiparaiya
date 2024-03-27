@@ -79,7 +79,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-
 <h3>Social & Portfolio</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anilpiparaiya)
@@ -97,12 +96,9 @@
 <a href="https://www.linkedin.com/in/anilpiparaiya/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="left"></a>
 -->
 
-
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
-
 🛠 &nbsp;Tech Stack</h3>
-
 
 - 💻 &nbsp;
   [![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -125,7 +121,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) 
+  <!---![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)---> 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
